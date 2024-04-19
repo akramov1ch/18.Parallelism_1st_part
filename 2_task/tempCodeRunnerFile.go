@@ -1,0 +1,2 @@
+
+    buffer := make([]byte, fileSize)
